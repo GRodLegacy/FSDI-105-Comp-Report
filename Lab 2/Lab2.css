@@ -1,0 +1,33 @@
+.btn {
+    background-color: brown;
+}
+
+.bordered {
+    border: 1px solid blue;
+}
+
+
+.container {
+    
+    background-color: rgb(231, 213, 188);
+}
+
+.container-fluid {
+    background-image: url(https://cdn.wallpapersafari.com/59/64/EVCsBh.jpg);
+    height: 100px;
+    margin: 20px;
+}
+
+body {
+    background-image: url(https://www.tokkoro.com/picsup/3106459-animal_dog_domestic_paws_pet_resting_tired.jpg);
+}
+
+div {
+    color: rgb(167, 113, 32);
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(61, 45, 9); 
+    text-align: center;
+}
